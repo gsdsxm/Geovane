@@ -1,2 +1,3 @@
-# Ola Mundo 
- primeiro repositorio 
+# Ola sou  Geovane 
+
+👾Estudando programação 
